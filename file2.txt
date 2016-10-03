@@ -1,3 +1,18 @@
 there!
 
 My edit is better
+
+Both editing at the same time ;)
+
+
+This conflict was because we were working at the same time on the same branch. To resolve this issue, I had to first pull again after Todd made changes. Then git created a merge for us and resulted in this: 
+
+
+<<<<<<< HEAD
+My edit is better
+=======
+Both editing at the same time ;)
+>>>>>>> 81c4151656dbbd0768a4d57cf2758d4aa1d7a627
+
+
+We were instructed to clean this up, so we did. 
