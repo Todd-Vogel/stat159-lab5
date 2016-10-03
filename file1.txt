@@ -1,5 +1,9 @@
 hi!
 
+<<<<<<< HEAD
 changing text file 1 rn
+=======
++ :)
+>>>>>>> 716eeec6e8af2f75825e4c479250b5be07cb865c
 
 We have both been utilizing terminal to create files and push them to our shared github repository. However, we have only been working and different times and using the same files.
