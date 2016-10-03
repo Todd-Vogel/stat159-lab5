@@ -4,6 +4,8 @@ My edit is better
 
 Both editing at the same time ;)
 
+abby modify file2
+
 
 This conflict was because we were working at the same time on the same branch. To resolve this issue, I had to first pull again after Todd made changes. Then git created a merge for us and resulted in this: 
 
