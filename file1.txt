@@ -1,3 +1,5 @@
 hi!
 
+changing text file 1 rn
+
 We have both been utilizing terminal to create files and push them to our shared github repository. However, we have only been working and different times and using the same files.
